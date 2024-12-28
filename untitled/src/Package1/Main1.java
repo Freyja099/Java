@@ -1,4 +1,6 @@
-public class Main {
+package Package1;
+
+public class Main1 {
     public static void main(String[] args) {
         // To print a text we can use System.out.println or System.out.print
         System.out.println("Hello, World!");
@@ -25,7 +27,7 @@ public class Main {
         String s = "Aya";
         System.out.println(s);
 
-        // Swap file
+        // Package1.Swap file
         Swap.swap();
 
         UserInput.userInput();
