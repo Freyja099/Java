@@ -24,5 +24,6 @@ public class UserInput {
         System.out.println(" Your last name is : " + lastName);
 
         System.out.println(name + " " + lastName + " " + age + "years old");
+        scanner.close();
     }
 }

@@ -1,6 +1,6 @@
 package Package1;
 
-public class Main1 {
+public class Introduction {
     public static void main(String[] args) {
         // To print a text we can use System.out.println or System.out.print
         System.out.println("Hello, World!");
